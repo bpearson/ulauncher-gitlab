@@ -2,6 +2,8 @@
 
 > Ulauncher extension to interact with [GitLab](https://gitlab.com/).
 
+## Forked from https://github.com/brpaz/ulauncher-gitlab
+
 ## Demo
 
 ![demo](demo.gif)
@@ -26,7 +28,7 @@
 
 Open ulauncher preferences window -> extensions -> add extension and paste the following url:
 
-```<%= https://github.com/brpaz/ulauncher-gitlab %>```
+```<%= https://github.com/bpearson/ulauncher-gitlab %>```
 
 ## Usage
 
