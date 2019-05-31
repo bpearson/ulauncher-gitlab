@@ -1,9 +1,8 @@
 {
-    "manifest_version": "2",
-    "api_version": "1",
+    "require_api_version": "^2.0.0",
     "name": "GitLab",
-    "description": "Quckly access your GitLab Projects and more.",
-    "developer_name": "Bruno Paz",
+    "description": "Quickly access your GitLab Projects and more.",
+    "developer_name": "Benjamin Pearson",
     "icon": "images/icon.png",
     "options": {
         "query_debounce": 0.5
@@ -12,7 +11,7 @@
             "id": "kw",
             "type": "keyword",
             "name": "GitLab",
-            "default_value": "glab"
+            "default_value": "gl"
         },
         {
             "id": "url",
